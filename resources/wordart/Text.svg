@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ascii'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="300" version="1.1" width="1000" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<rect height="100%" width="100%" fill="#FFFFFF"/>
+
+<style>
+.fcon{
+	font-family: URW Gothic, sans-serif;
+	font-size:4.5em;
+	fill:#000000;
+	font-weight: normal;
+}
+</style>
+<text x="50" y="250" class="fcon">TRIDENT</text>
+
+</svg>
